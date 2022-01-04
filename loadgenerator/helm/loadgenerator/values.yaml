@@ -1,2 +1,2 @@
-image: gcr.io/dynatrace-demoability/loadgenerator:9e830c2
+image: gcr.io/dynatrace-demoability/online-boutique/loadgenerator:bb9f28d
 replicaCount: 1
