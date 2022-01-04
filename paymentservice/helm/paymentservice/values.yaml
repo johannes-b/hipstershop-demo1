@@ -1,2 +1,2 @@
-image: gcr.io/dynatrace-demoability/paymentservice:9e830c2
+image: gcr.io/dynatrace-demoability/online-boutique/paymentservice:bb9f28d
 replicaCount: 1
